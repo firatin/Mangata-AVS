@@ -1,6 +1,9 @@
 Mangata wallets: 
 0x1bda05386Be52544c119F411e7248F9df67BeF16
 
+Test:
+0xf647014176B3e6f54B7bF927d718E294d9Ed7bab
+
 
 -Timeline-
 
